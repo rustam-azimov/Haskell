@@ -1,0 +1,1 @@
+powersOfTwo = 1 : map (*2) powersOfTwo
